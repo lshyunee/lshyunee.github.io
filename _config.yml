@@ -1,8 +1,8 @@
 # Site settings
-title: Mauricio Urraco
+title: 개발자 이수현의 포트폴리오입니다.
 description: Jekyll Theme Minimal Resume
-baseurl: "https://fake-whiteboy.tistory.com/"
-url: "lshyunee.github.io"
+# baseurl: ""
+# url: ""
 
 # User settings
 username: Lee Suhyun
