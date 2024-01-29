@@ -37,7 +37,7 @@
 <hr>
 <div>
   <h3>🤹‍♀️ Algorithm</h3>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tngus0658)](https://solved.ac/tngus0658/)
+   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tngus0658">
 </div>
 <div>
   <h3>📑 Git Information</h3>
