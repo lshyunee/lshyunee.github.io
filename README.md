@@ -1,12 +1,11 @@
 
-<img src="https://capsule-render.vercel.app/api?type=slice&reversal=false&color=gradient&customColorList=0,2,2,5,30)&text=I'M%20YEONJI!&fontSize=40&fontAlign=85&fontAlignY=15&rotate=8&animation=blink&desc=Developer's%20GitHub&descAlign=87&descAlignY=40&"/>
+
 <div>
   <p align="center">
     <h3>⚙ Tech Stack</h3>
     <div>
     <h5>Languages</h5>
     <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
     </div>
     <div>
@@ -38,7 +37,7 @@
 <hr>
 <div>
   <h3>🤹‍♀️ Algorithm</h3>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=duswl0220">
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tngus0658)](https://solved.ac/tngus0658/)
 </div>
 <div>
   <h3>📑 Git Information</h3>
